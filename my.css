@@ -1,0 +1,51 @@
+.parent-1{
+    background-color: blueviolet;
+    border-radius: 30px;
+}
+.parent-2{
+    color: black;
+    display: flex;
+    background-color: blue;
+    justify-content: space-between;
+    border-radius: 20px;
+}
+
+.parent6{
+    display: flex;
+    justify-content: center;
+    
+}
+.parent6 img{
+    border-radius: 20px;
+    margin: 10px;
+}
+.abc{
+    margin: 10px ;
+    background-color: aqua;
+    border-radius: 20px;
+}
+.abc:hover{
+    background-color: darkorange;
+}
+
+h2{
+    color: brown;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    
+}
+.yy{
+     
+    color: brown;
+    background-color: bisque;
+    font-size: large;
+    padding: 5px 10px;
+     
+}
+.box{
+    width: 900px;
+    height: 600;
+    color: green;
+}
